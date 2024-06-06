@@ -1,0 +1,26 @@
+* {
+  color: #fffafa;
+}
+
+body {
+  background-color: #222222;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+div.container div.mb-5 {
+  width: 800px;
+  margin: 0 auto;
+}
+
+#updateButton {
+  display: none;
+}
+
+#rodape {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
